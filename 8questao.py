@@ -1,0 +1,6 @@
+n1 = int(input("Digite um número: "))
+n2 = int(input("Digite um número: "))
+print(f"A soma desses números é: {n1 + n2}")
+print(f"A subtração desses números é: {n1 - n2}")
+print(f"A multiplicação desses números é: {n1 * n2}")
+print(f"A divisão desses números é: {n1 / n2}")
